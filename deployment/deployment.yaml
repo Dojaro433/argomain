@@ -22,6 +22,6 @@ spec:
     spec:
       containers:
       - name: apache
-        image: docker9447/apache:v1
+        image: docker9447/apache:v2
         ports:
         - containerPort: 80
